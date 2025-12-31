@@ -7,12 +7,20 @@
     <list default="true" id="71c12f56-a446-44d4-85a0-735e34fc78c2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/HackerRank/compare_the_triplets.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HackerRank/simple_array_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/.idea/HackerRank.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEular/eular6.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/testings-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/testings-2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,21 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.compare_the_triplets.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Programming/Python-challenges",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.compare_the_triplets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Python-challenges&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="compare_the_triplets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
