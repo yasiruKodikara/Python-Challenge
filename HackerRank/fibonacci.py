@@ -1,9 +1,9 @@
 def fibonacci(n):
-    x = [0,1]
-    for i in range(n):
-        nt = x[-1] + x[-2]
-        x.append(nt)
-    return x
+    fib = [0,1]
 
-n = int(input("Enter end number: "))
-print(fibonacci(n))
+    for i in range(2, n):
+        fib.append(fib[-1]+fib[-2])
+    return fib[n-1]
+
+if __name__ == '__main__':
+    print(fibonacci(100))
