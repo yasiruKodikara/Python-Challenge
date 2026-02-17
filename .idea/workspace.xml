@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71c12f56-a446-44d4-85a0-735e34fc78c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/apple-and-orange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/number_line_jumps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,30 +31,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.apple-and-orange.executor&quot;: &quot;Run&quot;,
-    &quot;Python.compare_the_triplets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grading-students.executor&quot;: &quot;Run&quot;,
-    &quot;Python.min-max-sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mini-max-sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.staircase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time-convertion.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Python-challenges&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.apple-and-orange.executor": "Run",
+    "Python.compare_the_triplets.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.grading-students.executor": "Run",
+    "Python.min-max-sum.executor": "Run",
+    "Python.mini-max-sum.executor": "Run",
+    "Python.number_line_jumps.executor": "Run",
+    "Python.staircase.executor": "Run",
+    "Python.testing.executor": "Run",
+    "Python.time-convertion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Programming/Python-challenges",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.apple-and-orange">
+}]]></component>
+  <component name="RunManager" selected="Python.number_line_jumps">
     <configuration name="apple-and-orange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="ENV_FILES" value="" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="number_line_jumps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/testing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/number_line_jumps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.number_line_jumps" />
         <item itemvalue="Python.apple-and-orange" />
         <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.grading-students" />
         <item itemvalue="Python.time-convertion" />
-        <item itemvalue="Python.testing" />
       </list>
     </recent_temporary>
   </component>
